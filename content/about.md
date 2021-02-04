@@ -1,5 +1,5 @@
 ---
-title: Over de Boekhoudbaas
+title: Over de BoekhoudBaas
 sections:
   - type: hero_section
     title: Over ons
