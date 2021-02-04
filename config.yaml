@@ -62,7 +62,7 @@ params:
       - label: Nieuws
         url: /blog/category/news
         style: link
-      - label: General
+      - label: Algemeen
         url: /blog/category/general
         style: link
       - label: Tutorials
