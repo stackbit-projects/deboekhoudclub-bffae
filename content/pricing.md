@@ -23,18 +23,7 @@ sections:
       - title: Boekhoudservice Plus
         subtitle: de BoekhoudBaas doet het werk
         title_align: left
-        content: |
-          ***
-
-          ### €129
-
-          per maand
-
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Fringilla diam magnis libero lacinia
-          *   Litora primis facilisis ullamcorper per
+        content: "***\n\n### €129\n\nper maand\n\nVoor een\_**bv**,\_**maatschap**,\_**vof**,\_**vereniging**\_of\_**stichting**.\n\nJij doet\n\n*   Je bedrijf runnen\n\n*   Verkoopfacturen maken\n\n*   Inkoopfacturen betalen\n\nde BoekhoudBaas doet\n\n*   Je boekhouding\n\n*   Je btw-aangifte\n\n*   Je inkomstenbelasting (ib)\n\n*   Jaarrekening en KvK-jaarrekening\n\n*   Je vennootschapsbelasting (vpb)\n"
         content_align: left
         actions:
           - label: Start with Premium
