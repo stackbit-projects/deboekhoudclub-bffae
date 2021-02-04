@@ -12,17 +12,7 @@ sections:
       - title: Boekhoudservice ZZP
         subtitle: de BoekhoudBaas doet het werk
         title_align: left
-        content: |
-          ***
-
-          ### €99
-
-          per maand
-
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
+        content: "***\n\n### €99\n\nper maand\n\nVoor een\_**eenmanszaak (zzp-er)**\_of\_**holding bv**.\n\nJij doet\n\n*   Je bedrijf runnen\n\n*   Verkoopfacturen maken\n\n*   Inkoopfacturen betalen\n\nJortt doet\n\n*   Je boekhouding\n\n*   Je btw-aangifte\n\n*   Je inkomstenbelasting (ib)\n\n*   Jaarrekening (en KvK-jaarrekening)\n"
         content_align: left
         actions:
           - label: Start with Personal
