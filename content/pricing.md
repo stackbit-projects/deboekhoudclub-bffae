@@ -60,7 +60,7 @@ sections:
 
           ### €12,50
 
-          per month, billed yearly
+          per maand
 
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
