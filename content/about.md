@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Over ons
-    subtitle: About Page Demo
+    subtitle: de BoekhoudBaas
     align: center
     background_color: secondary
   - type: features_section
