@@ -58,7 +58,7 @@ sections:
         content: |
           ***
 
-          ### $12,50
+          ### €12,50
 
           per month, billed yearly
 
