@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: de Boekhoudbaas doet je boekhouding
     subtitle: (Boekhouder as a service)
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Laat je boekhouding voor je doen voor een vast bedrag per maand. 
     actions:
       - label: Try Free
         url: /pricing
