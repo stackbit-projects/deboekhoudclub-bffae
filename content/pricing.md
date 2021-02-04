@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Boekhoudservice ZZP
-        subtitle: Optional subtitle
+        subtitle: de BoekhoudBaas doet het werk
         title_align: left
         content: |
           ***
