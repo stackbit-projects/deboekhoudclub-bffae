@@ -39,13 +39,9 @@ sections:
 
           ### €12,50
 
-          per maand
+          per maand per loonstrook
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
-          *   Feugiat porta tortor
+          Elke maand een loonstrookje voor de DGA of  werknemer
         content_align: left
         actions:
           - label: Start with Business
