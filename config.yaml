@@ -19,7 +19,7 @@ params:
       - label: Prijs
         url: /pricing
         style: link
-      - label: About
+      - label: Over ons
         url: /about
         style: link
       - label: Blog
