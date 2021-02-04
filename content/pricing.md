@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Boekhoudservice Plus
-        subtitle: Optional subtitle
+        subtitle: de BoekhoudBaas doet het werk
         title_align: left
         content: |
           ***
