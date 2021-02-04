@@ -53,7 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Loonstrook
-        subtitle: Optional subtitle
+        subtitle: elke maand een loonstrookje
         title_align: left
         content: |-
           ---
