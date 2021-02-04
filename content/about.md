@@ -42,9 +42,12 @@ sections:
     title: Onze contactgegevens
     grid_items:
       - title: BoekhoudBaas
-        content: >
-          Transistorstraat 71C 1322CK [1-234-556-7890](tel:+12345567890)
-          <email@example.com>
+        content: |
+          Transistorstraat 71C
+
+          1322CK Almere
+
+           [1-234-556-7890](tel:+12345567890) <email@example.com>
         content_align: left
         actions:
           - label: Get Directions
