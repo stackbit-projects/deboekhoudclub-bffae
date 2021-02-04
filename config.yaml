@@ -16,7 +16,7 @@ params:
       - label: Wat doet de Boekhoudbaas
         url: /features
         style: link
-      - label: Pricing
+      - label: Prijs
         url: /pricing
         style: link
       - label: About
