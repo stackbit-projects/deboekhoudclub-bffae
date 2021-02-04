@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: wat kan de BoekhoudBaas voor je doen?
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
